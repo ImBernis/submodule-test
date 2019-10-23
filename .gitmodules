@@ -1,3 +1,6 @@
 [submodule "udg-mtp-exercicis"]
 	path = udg-mtp-exercicis
 	url = git@github.com:ImBernis/udg-mtp-exercicis.git
+[submodule "udg-mtp-teoria"]
+	path = udg-mtp-teoria
+	url = git@github.com:ImBernis/udg-mtp-teoria.git
