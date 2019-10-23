@@ -4,3 +4,6 @@
 [submodule "udg-mtp-teoria"]
 	path = udg-mtp-teoria
 	url = git@github.com:ImBernis/udg-mtp-teoria.git
+[submodule "udg-mtp-acme"]
+	path = udg-mtp-acme
+	url = git@github.com:ImBernis/udg-mtp-acme.git
