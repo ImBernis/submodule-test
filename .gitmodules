@@ -6,4 +6,4 @@
 	url = git@github.com:ImBernis/udg-mtp-teoria.git
 [submodule "udg-mtp-acme"]
 	path = udg-mtp-acme
-	url = git@git.jetbrains.space/bernatsv01/udg-mtp-acme.git
+	url = git@github.com:ImBernis/udg-mtp-acme.git
