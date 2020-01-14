@@ -7,6 +7,3 @@
 [submodule "udg-mtp-acme"]
 	path = udg-mtp-acme
 	url = git@github.com:bernatsv01/udg-mtp-acme.git
-[submodule "udg-mtp-examens"]
-    path = udg-mtp-examens
-    url = git@github.com:bernatsv01/udg-mtp-examens.git
