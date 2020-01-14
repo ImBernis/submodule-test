@@ -172,7 +172,7 @@ int main(){
     inicialitzar_viatgers(viatgers);
 
     ifstream f_in(
-            "C:\\Users\\Bernat\\CLionProjects\\udg-mtp\\udg-mtp-examens\\mtp1\\examens_anteriors\\2017\\normal\\vacances.txt");
+            "C:\\Users\\Bernat\\CLionProjects\\udg-mtp\\udg-mtp-examens1\\mtp1\\examens_anteriors\\2017\\normal\\vacances.txt");
 
     llegir_vacances(f_in, viatgers, ciutats);
 
