@@ -1,12 +1,12 @@
 [submodule "udg-mtp-exercicis"]
 	path = udg-mtp-exercicis
-	url = git@github.com:ImBernis/udg-mtp-exercicis.git
+	url = git@github.com:bernatsv01/udg-mtp-exercicis.git
 [submodule "udg-mtp-teoria"]
 	path = udg-mtp-teoria
-	url = git@github.com:ImBernis/udg-mtp-teoria.git
+	url = git@github.com:bernatsv01/udg-mtp-teoria.git
 [submodule "udg-mtp-acme"]
 	path = udg-mtp-acme
-	url = git@github.com:ImBernis/udg-mtp-acme.git
+	url = git@github.com:bernatsv01/udg-mtp-acme.git
 [submodule "udg-mtp-examens"]
     path = udg-mtp-examens
-    url = git@github.com:ImBernis/udg-mtp-examens.git
+    url = git@github.com:bernatsv01/udg-mtp-examens.git
